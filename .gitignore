@@ -1,0 +1,11 @@
+yolo_final/datasets/
+yolo_final/yolov8n.pt
+yolo_final/yolov9c.pt
+yolo_final/yolov9e.pt
+yolo_final/ultralytics/
+yolo_final/yolo_result/train/yolov9c_train/weights/
+yolo_final/yolo_result/train/yolov8l_train/weights/
+yolo_final/yolo_result/train/yolov8m_train/weights/
+yolo_final/yolo_result/train/yolov8n_train/weights/
+
+
